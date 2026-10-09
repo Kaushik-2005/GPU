@@ -1,0 +1,9 @@
+.dist
+.vscode
+/books
+
+*.pdf
+*.exe
+*.md
+
+!README.md
